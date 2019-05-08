@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-@import url("https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css");
-@import url("https://cdn.staticfile.org/twitter-bootstrap/4.1.3/css/bootstrap.min.css");
-@import url("/assets/plugins/single-page/css/main.css");
-
-
 .bg-gradient-primary {
     background: linear-gradient(87deg, #ad59ff  0, #825ee4 100%) !important;
 }
